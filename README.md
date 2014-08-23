@@ -1,2 +1,2 @@
-Raytrace
+optix-rt
 ========
